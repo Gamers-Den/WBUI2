@@ -107,7 +107,7 @@
 				"imageurl": "https://i.imgur.com/7TRdyVT.png",
 				"content": [
 					{
-						"title": "New Title",
+						"title": "WebStore Link Guide",
 						"text": "Step 1 – Log in to the Gamers Den Shop\r\nGo to https://gamersden.serverstore.io/shop\r\n\r\nClick the green Login button in the top-right corner.\r\n\r\nSelect ARK: Survival Ascended from the options.\r\n\r\n\r\nStep 2 – Copy Your Unique Login Command\r\nAfter selecting ARK: Ascended, a VyHub login code will be generated.\r\nCopy the entire command (e.g., /vylogin your-unique-code).\r\n\r\n\r\nStep 3 – Enter the Command In-Game\r\nJoin any Gamers Den ARK Ascended Server.\r\nPress Enter to open the chat box.\r\nPaste the command you copied earlier and hit Enter.\r\n\r\nExample: /vylogin ccdc3be5-d0f6-4075-b79b-0f85c10b5a4e\r\n\r\nYou’ll see a confirmation message if successful.\r\n"
 					}
 				]
