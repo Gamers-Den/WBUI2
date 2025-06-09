@@ -1,0 +1,128 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/CC6xlAT.png",
+			"disableicontext": true,
+			"iconposition": 2,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/KDkvUPa.png",
+				"content": [
+					{
+						"title": "Welcome to Gamers Den – The Ultimate Vanilla+ ARK Experience",
+						"text": "Gamers Den servers deliver the ideal balance between classic ARK gameplay and carefully chosen enhancements. We stay true to the spirit of survival while adding just enough quality-of-life improvements to keep your adventures fresh, fair, and fun.\r\n\r\nWhy Survivors Choose Gamers Den?\r\n* Progress That Lasts!\r\n* Modified decay rates mean your structures stay standing and your tames stay loyal — no more coming back to lost progress. Here, your hard work is protected and respected.\r\n\r\nBuilt for Every Playstyle\r\n* Whether you're a lone wanderer, part of a competitive tribe, or a brand-new survivor, Gamers Den offers a balanced environment designed to support and challenge players at all levels.\r\n\r\nBalanced Settings & VIP Support\r\n* Enjoy smooth, stable gameplay with finely tuned rates, responsive admins, and optional VIP services. We focus on fairness and community-first settings — not pay-to-win.\r\n\r\nPrivately Owned. Community Focused. Built to Last.\r\n* Our servers are privately owned and operated no rented hosting, no inflated costs, and no unnecessary software.\r\n\r\nLow overhead = long-term stability. This isn’t just a temporary project it’s an infrastructure built to support the Gamers Den community for the long haul.\r\n\r\nWhether you're building your dream base, raising your next giga, or hopping on for a quick adventure — you can count on us to keep the world running smoothly.\r\n\r\n"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Updates",
+				"imageurl": "https://i.imgur.com/KDkvUPa.png",
+				"content": [
+					{
+						"title": "Gamers Den Cluster Updates:",
+						"text": "Any significant server changes, updates, or modifications will be posted here.\r\nStay tuned to keep up with adjustments to gameplay, settings, or features that may impact your experience."
+					},
+					{
+						"title": "JSON settings:",
+						"text": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Rules",
+				"imageurl": "https://i.imgur.com/KDkvUPa.png",
+				"content": [
+					{
+						"title": "Building Rules – Gamers Den",
+						"text": "BR1. Base Limit\r\n* Each tribe is allowed 2 bases per map (must be in separate locations).\r\n* Multiple builds in the same area count as one base.\r\n* A base is any cluster of structures.\r\n* A third base will be removed without warning.\r\n\r\nBR2. No Meshing\r\n* No structures or turrets may be placed inside the map mesh.\r\n* This includes:\r\n* Meshed foundations\r\n* Pillars inside terrain\r\n* Ocean platforms under terrain\r\n\r\nBR3. Base Performance\r\n* Bases must not cause lag when rendered.\r\n* Optimize dino count and structure density.\r\n\r\nBR4. No Building or Aggressive Dinos in These Areas:\r\n(Includes released and upcoming maps)\r\n* Artifact Caves\r\n* Obelisks\r\n* Wyvern Nest / Egg Spawn Zones\r\n* Aberration Surface & Green Surface Entrances\r\n* Extinction “Unfobbable” Location (above King Titan Terminal)\r\n* World Borders (no exploiting foundation placement)\r\n* Spawn Zones (no spawn blocking)\r\n* You may build at Extinction OSDs while active, but must remove all structures afterward.\r\n\r\nBR5. No Excessive Spam\r\n* Do not spam structures outside your base.\r\n* All spam must stay within render distance of your base.\r\n\r\nBR6. No Open-World Structures (Do not place)\r\n* Turrets\r\n* Tek forcefields\r\n* Gates\r\n"
+					},
+					{
+						"title": "Game Rules – Gamers Den",
+						"text": "GR1. No Hacking or Exploiting\r\n* Abuse of game, mod, or plugin bugs will result in an immediate ban.\r\n* Example: Stacking hundreds of vaults inside each other = exploit.\r\n\r\nGR2. One Character per Player\r\n* Only one character per player per cluster is allowed.\r\n* No second accounts or account sharing.\r\n\r\nGR3. No Aggression at Spawns/Obelisks\r\n* Do not place aggressive dinos or structures at:\r\n* Player spawn zones\r\nObelisks\r\n\r\nGR4. (Intentionally skipped for numbering consistency)\r\nGR5. No Insiding\r\n* Stealing from or sabotaging your tribe will result in penalties or bans.\r\n* Tribe item replacements will not be issued.\r\n* Choose your tribemates wisely.\r\n\r\nGR6. No Duping or Cheating\r\n* Duplication, glitching, or any form of cheating = immediate ban.\r\nGR7. No Scamming\r\n* All trades must be honest and transparent.\r\n* Scamming other players is not tolerated.\r\n\r\nGR8. Dino Stacking Limit\r\n* Max: 2 dinos stacked inside each other.\r\n* Overstacked dinos will be wiped without notice.\r\n* Separate baby dinos once they mature.\r\n\r\nGR9. Server Performance Responsibility\r\n* Tribes that cause lag or crashes through:\r\n* Structure spam\r\n* Excessive breeding\r\nOr other abuse will receive warnings or bans depending on severity.\r\n\r\nGR10. No Griefing on PvE Servers\r\n* Intentional destruction or killing of other players’ assets on PvE is strictly forbidden.\r\nPvE griefing = ban."
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Server Specs",
+				"imageurl": "https://i.imgur.com/KDkvUPa.png",
+				"content": [
+					{
+						"title": "Gamers Den Server Hardware Overview",
+						"text": "Core Specs:\r\n\r\nCPU:\r\n* AMD Ryzen Threadripper 3970X (32 cores / 64 threads) – Built for extreme multitasking and server-grade workloads\r\n\r\nRAM:\r\n* 256GB DDR4 ECC Registered Memory \r\n\r\nStorage\t4 × 2TB NVMe SSDs in RAID 10 + 256GB NVMe Boot          * Drive Combines speed and redundancy to keep load times fast and your data safe\r\n\r\nGPU: NVIDIA RTX 3080 \r\n* Supports high-end rendering and server-side GPU acceleration if needed\r\n\r\nMotherboard: TRX40 High-End Workstation Board – Supports advanced thermal regulation, ECC memory, and PCIe 4.0\r\nChassis\tRM41300H01 Optimized for airflow, cable management, and 24/7 operation\r\n\r\nPower Supply: 1000W EPS12V PSU – Enterprise-grade stability and headroom for expansion\r\n"
+					},
+					{
+						"title": "Why It Matters to You",
+						"text": "Your gameplay experience depends on server performance – from load times to tick rate, stability, and recovery speed. Our system ensures:\r\n\r\n* Low latency\r\n* Minimal server crashes\r\n* Quick map switching\r\n* Room to grow for future expansions or mods"
+					},
+					{
+						"title": "Privately Owned & Community-Driven",
+						"text": "If you're curious about performance tuning, cluster setups, or hosting your own server, feel free to reach out  the Gamers Den team is always here to help or geek out with you.\r\n\r\nPlay Hard. Play Smooth. Play Gamers Den.\r\n\r\n"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Mods",
+				"imageurl": "https://i.imgur.com/KDkvUPa.png",
+				"content": [
+					{
+						"title": "MODS",
+						"text": "Admin Panel\r\nProvides server administrators with a comprehensive interface for managing server settings, players, and in-game events, streamlining administrative tasks.\r\n\r\nSuper Spyglass Plus\r\nEnhances the in-game spyglass, offering detailed information about creatures, structures, and players, including stats, taming progress, and more.\r\n\r\nCybers Structures QoL+ (Crossplay)\r\nIntroduces quality-of-life improvements to building structures, such as enhanced snapping, pickup options, and additional building components, facilitating more efficient and creative base construction.\r\n\r\nPelayori's Cryo Storage (Crossplay!)\r\nImplements advanced cryopod storage solutions, allowing players to store and manage their tamed creatures more effectively, reducing clutter and improving server performance.\r\n\r\nSolo Farm Mod\r\nTailored for solo players, this mod enhances resource gathering rates and efficiency, making solo farming more viable and less time-consuming.\r\n"
+					},
+					{
+						"title": "MODS",
+						"text": "Gigantoraptor\r\nIntroduces the Gigantoraptor, a new tameable dinosaur with unique abilities and behaviors, adding diversity to the game's fauna.\r\n\r\nShiny! Dinos Ascended\r\nAdds rare, special-colored variants of existing dinosaurs that spawn with unique visual effects and enhanced stats, encouraging exploration and collection.\r\n\r\nResonant's Shop Mod\tImplements an in-game currency and shop system, allowing players to earn currency through gameplay and purchase items, dinos, or resources, enhancing the game's economy and progression dynamics.\r\n\r\nAutomated Dino Wipes\t\r\nProvides server administrators with tools to schedule or manually initiate dinosaur wipes, helping maintain server performance and ensuring fresh spawns of creatures.\r\n\r\nTG Stacking Mod 1000-50\t\r\nAdjusts item stacking limits, allowing items to stack up to 1,000 units with a reduced weight of 50%, optimizing inventory management and reducing storage requirements.\r\n\r\nDino Color Tokens\r\nIntroduces a system where players can obtain tokens to change the colors of their tamed dinosaurs, enabling customization and personalization of creatures.\r\n\r\nWBUI2 (MOD FOR UI MESSAGES)\t\r\nEnhances the game's user interface by providing customizable messages and notifications, improving communication and information dissemination within the game environment."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Server Rates",
+				"imageurl": "https://i.imgur.com/KDkvUPa.png",
+				"content": [
+					{
+						"title": "New Title",
+						"text": "New Text"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "WebStore Information",
+				"imageurl": "https://i.imgur.com/7TRdyVT.png",
+				"content": [
+					{
+						"title": "New Title",
+						"text": "Step 1 – Log in to the Gamers Den Shop\r\nGo to https://gamersden.serverstore.io/shop\r\n\r\nClick the green Login button in the top-right corner.\r\n\r\nSelect ARK: Survival Ascended from the options.\r\n\r\n\r\nStep 2 – Copy Your Unique Login Command\r\nAfter selecting ARK: Ascended, a VyHub login code will be generated.\r\nCopy the entire command (e.g., /vylogin your-unique-code).\r\n\r\n\r\nStep 3 – Enter the Command In-Game\r\nJoin any Gamers Den ARK Ascended Server.\r\nPress Enter to open the chat box.\r\nPaste the command you copied earlier and hit Enter.\r\n\r\nExample: /vylogin ccdc3be5-d0f6-4075-b79b-0f85c10b5a4e\r\n\r\nYou’ll see a confirmation message if successful.\r\n"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "WEBSTORE",
+				"url": "https://gamersden.serverstore.io/shop"
+			},
+			{
+				"text": "DISCORD",
+				"url": "https://discord.gg/xsHn2uGV"
+			}
+		],
+		"version": 2
+	}
+}
