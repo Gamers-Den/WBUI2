@@ -1,1 +1,80 @@
-
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/CC6xlAT.png",
+			"disableicontext": true,
+			"iconposition": 2,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/rRLOfi8.png",
+				"content": [
+					{
+						"title": "Welcome to Gamers Den – The Ultimate Vanilla+ ARK Experience",
+						"text": "Gamers Den provides a balanced ARK experience focused on protecting your progression while staying true to the core survival gameplay.\r\n\r\nWith moderately boosted rates, enhanced breeding, quality-of-life improvements, and a fair 21-day structure decay system, active players can take breaks with confidence while helping keep the world clean and playable. Optional decay protection is available for extended coverage when needed.\r\n\r\n-=BUILT FOR EVERY PLAYSTYLE=-\r\nWhether you’re a solo player, part of a long-term tribe, or a returning survivor, Gamers Den supports casual and dedicated players alike. PvE is the foundation of the cluster, with optional Tribe War available for players who want consensual PvP without forcing conflict on others.\r\n\r\n-=PRIVATELY OWNED • COMMUNITY FOCUSED • NO WIPES=-\r\nGamers Den is a privately owned and operated server that focuses on long-term stability and redundant safety measures to protect your progress. This is a no-wipe cluster that offers all the core maps plus the most popular ones by the modding community. Whether you’re grinding the old-fashioned way or taking advantage of server quality-of-life features, Gamers Den is built to keep the experience stable, fair, and respectful for everyone.\r\n\r\n-=Read the Rules!=-"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Rules",
+				"imageurl": "https://i.imgur.com/",
+				"content": [
+					{
+						"title": "Building Rules – Gamers Den",
+						"text": "All violations are subject to warnings or immediate bans depending on severity.\r\n\r\nBase Limit\r\n* Each tribe is allowed 2 bases per map.\r\n* A base is any cluster of structures.\r\n* All structures must be within render distance of each other, \r\n   including any perimeter walls.\r\n* A third base will be removed without warning.\r\n\r\nOpen-World Structures \r\n* Do not spam structures outside your base.\r\n* All taming structures must be removed immediately after use or\r\n  left unlocked for public use.\r\n* Spawn locations must not impact others and are limited to single foundation/bed(s). One per render area - Don’t spam!\r\n* Teleport pads placed outside of your base must be open to public\r\n\r\nNo Meshing\r\n* No structures or turrets may be placed inside the map mesh.\r\n* Slight(max 50% of structure) terrain clipping for aesthetics is allowed\r\n\r\nNo Building or Aggressive Dinos in These Areas:\r\n* Artifact Caves\r\n* Obelisks\r\n* Wyvern Nest / Egg Spawn Zones\r\n* Aberration Surface Entrances\r\n* Extinction “Unfobbable” Location (above King Titan Terminal)\r\n* World Borders (no exploiting foundation placement)\r\n* Spawn Zones (no spawn blocking)\r\n* You may build at Extinction OSDs while active, but must remove all structures afterward.\r\n"
+					},
+					{
+						"title": "Game Rules – Gamers Den",
+						"text": "All violations are subject to warnings or immediate bans depending on severity.\r\n\r\nNo Hacking or Exploiting\r\n* Abuse of game, mod, or plugin bugs\r\n* Example: Stacking hundreds of vaults inside each other = exploit.\r\n\r\nOne Character per Player\r\n* Only one character per player per cluster is allowed.\r\n* No second accounts or account sharing.\r\n\r\nNo Aggression at Spawns/Obelisks\r\n* Do not place aggressive dinos or structures at:\r\n* Player spawn zones or Obelisks\r\n\r\nNo Meshing or Map Exploits\r\n*Using the map mesh, terrain glitches, or unintended geometry to gain an advantage is strictly prohibited. This includes hiding bases, dinos, structures, or players inside the mesh.\r\n\r\nNo Insiding\r\n* Stealing from or sabotaging your tribe\r\n* Tribe item replacements will not be issued.\r\n* Choose your tribemates wisely.\r\n\r\nNo Duping or Cheating\r\n* Duplication, glitching, or any form of cheating\r\n\r\nNo Scamming\r\n* All trades must be honest and transparent.\r\n* No scamming other players\r\n\r\nDino Stacking Limit\r\n* Max: 2 dinos stacked inside each other.\r\n* Overstacked dinos will be wiped without notice.\r\n* Separate baby dinos once they mature.\r\n\r\nServer Performance Responsibility\r\n* Tribes must not cause lag or crashes through structure spam excessive breeding\r\n\r\nNo Griefing on PvE Servers\r\n* Intentional destruction or killing of other players’ assets on PvE is strictly forbidden.\r\n\r\nNo Aggressive Dinos on Wander\r\n* Aggressive dinos must be within base walls or “anchored” to a stationary dino at your base.\r\n"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Server Rates",
+				"imageurl": "https://i.imgur.com/",
+				"content": [
+					{
+						"title": "World Settings",
+						"text": "-=General Setting=-\r\n*Structure Decay Timer Increased by 4x (64 days on Metal)\r\n*Dino Decay Timer Increased by 3x (24 days)\r\n*Non-Native Creatures Allowed on Aberration\r\n*Cave Flyers Enabled\r\n*Flyer Speed Leveling Enabled\r\n*Player Movement Speed Leveling Enabled\r\n*Dino Stamina Drain Halved\r\n*Always Allow Structure Pickup\r\n*Resource Respawn Timer Halved\r\n*Increased Weight Capacities\r\n*Boosted Loot Qualities\r\n*XP Multiplier 2x\r\n*Harvest Amount 5x\r\n*Dino Spawn Density 2x\r\n*Item Stack Size 50x\r\n*Platform Saddle Limit 100\r\n*Titanosaur Feeding Enabled\r\n\r\n-=Shiny Settings Overview=-\r\n*Max shinies at once: 20\r\n*Spawn rate: Every 15–30 minutes\r\n*Spawn on server start: Yes\r\n*Level range: 150–180\r\n*Enraged strength: 2x stronger\r\n*Lifetime: 5–6 hours before despawn\r\n*Coordinates shown: Yes\r\n*Essence drops: Enabled (high chance)\r\n*Trait gain chance: 50%\r\n*Trait upgrade chance: 50%\r\n*Stat boosts: Enabled (~1.6x strength)\r\n*Special variants: Enabled\r\n*Enraged variants: Enabled\r\n*All dinos eligible: Yes\r\n*Taming: Allowed\r\n*No duplicate shinies active\r\n"
+					},
+					{
+						"title": "Taming & Breeding Settings",
+						"text": "*Taming Speed 10×\r\n*Mature Speed 15x\r\n*Incubation Speed 10x\r\n*Imprint Amount 10x\r\n*Mating intervals increased"
+					},
+					{
+						"title": "Max Levels",
+						"text": "*Max Wild Dino Level 150\r\n*Max Tek Dino Level 180\r\n*Max Wyvern Level 190\r\n*Max Shiny Level 180"
+					},
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "WEBSTORE",
+				"url": "https://gamersden.tip4serv.com/"
+			},
+			{
+				"text": "DISCORD",
+				"url": "https://discord.gg/DVETkuvnzQ"
+			}
+		],
+		"version": 2
+	}
+}
