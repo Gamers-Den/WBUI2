@@ -21,8 +21,8 @@
 				"imageurl": "https://i.imgur.com/rRLOfi8.png",
 				"content": [
 					{
-						"title": "Welcome to Gamers Den – The Ultimate Vanilla+ ARK Experience",
-						"text": "Gamers Den provides a balanced ARK experience focused on protecting your progression while staying true to the core survival gameplay.\r\n\r\nWith moderately boosted rates, enhanced breeding, quality-of-life improvements, and a fair 21-day structure decay system, active players can take breaks with confidence while helping keep the world clean and playable. Optional decay protection is available for extended coverage when needed.\r\n\r\n-=BUILT FOR EVERY PLAYSTYLE=-\r\nWhether you’re a solo player, part of a long-term tribe, or a returning survivor, Gamers Den supports casual and dedicated players alike. PvE is the foundation of the cluster, with optional Tribe War available for players who want consensual PvP without forcing conflict on others.\r\n\r\n-=PRIVATELY OWNED • COMMUNITY FOCUSED • NO WIPES=-\r\nGamers Den is a privately owned and operated server that focuses on long-term stability and redundant safety measures to protect your progress. This is a no-wipe cluster that offers all the core maps plus the most popular ones by the modding community. Whether you’re grinding the old-fashioned way or taking advantage of server quality-of-life features, Gamers Den is built to keep the experience stable, fair, and respectful for everyone.\r\n\r\n-=Read the Rules!=-"
+						"title": "Welcome to Gamers Den — A Long-Term PvE ARK Experience",
+						"text": "Welcome to Gamers Den!\r\n\r\nGamers Den runs on dedicated hardware with extensive automation, monitoring, backups, and redundant safeguards designed to protect player progression and keep the cluster running reliably.\r\nThis is a no-wipe cluster built for long-term play. Server maintenance, updates, restarts, backups, and recovery systems have been designed around preserving the time players invest in their bases, dinos, characters, and progression.\r\n\r\nYour progression matters here. The infrastructure behind Gamers Den is built with that in mind.\r\n\r\n-=BUILT FOR EVERY PLAYSTYLE=-\r\nWhether you're a solo survivor, part of a long-term tribe, a builder, breeder, collector, or returning player, Gamers Den is designed to give you room to play ARK your way. PvE is the foundation of the cluster, with optional Tribe War available for players who want consensual PvP.\r\n\r\n-=ONE CLUSTER • ONE COMMUNITY=-\r\nAll maps share the same rates, permissions, economy, and core server systems. Transfer between maps, explore the full cluster, and keep your progression connected wherever you choose to play.\r\n\r\n-=PRIVATELY OWNED • COMMUNITY FOCUSED • NO WIPES=-\r\nGamers Den runs on dedicated hardware and is built around long-term stability. We don't run scheduled wipes, so the base you build, dinos you breed, and progress you make are intended to stay with you.\r\n\r\n-=START HERE=-\r\nCheck the Rules and Server Rates tabs above for the important information you'll need before getting started. Additional tabs cover cluster features, decay, mods, commands, and other server systems."
 					}
 				]
 			},
@@ -42,25 +42,51 @@
 				]
 			},
 			{
-				"layout": 3,
+				"layout": 4,
 				"buttontext": "Server Rates",
 				"imageurl": "https://i.imgur.com/",
 				"content": [
 					{
 						"title": "World Settings",
-						"text": "-=General Setting=-\r\n*Structure Decay Timer Increased by 4x (64 days on Metal)\r\n*Dino Decay Timer Increased by 3x (24 days)\r\n*Non-Native Creatures Allowed on Aberration\r\n*Cave Flyers Enabled\r\n*Flyer Speed Leveling Enabled\r\n*Player Movement Speed Leveling Enabled\r\n*Dino Stamina Drain Halved\r\n*Always Allow Structure Pickup\r\n*Resource Respawn Timer Halved\r\n*Increased Weight Capacities\r\n*Boosted Loot Qualities\r\n*XP Multiplier 2x\r\n*Harvest Amount 5x\r\n*Dino Spawn Density 2x\r\n*Item Stack Size 50x\r\n*Platform Saddle Limit 100\r\n*Titanosaur Feeding Enabled\r\n\r\n-=Shiny Settings Overview=-\r\n*Max shinies at once: 20\r\n*Spawn rate: Every 15–30 minutes\r\n*Spawn on server start: Yes\r\n*Level range: 150–180\r\n*Enraged strength: 2x stronger\r\n*Lifetime: 5–6 hours before despawn\r\n*Coordinates shown: Yes\r\n*Essence drops: Enabled (high chance)\r\n*Trait gain chance: 50%\r\n*Trait upgrade chance: 50%\r\n*Stat boosts: Enabled (~1.6x strength)\r\n*Special variants: Enabled\r\n*Enraged variants: Enabled\r\n*All dinos eligible: Yes\r\n*Taming: Allowed\r\n*No duplicate shinies active\r\n"
+						"text": "-=GENERAL RATES=-\r\n2x | XP Multiplier\r\n5x | Harvest Amount\r\n2x | Dino Spawn Density\r\n2x | Resource Respawn\r\n2x | Crop Growth\r\n2x | Loot Quality\r\n2x | Fishing Loot\r\n2x | Spoil Time\r\n\r\nResource Respawn reduces the time required for\r\nharvested resources to return. Spoil Time means\r\nfood and other perishables last twice as long.\r\n\r\n-=PLAYER & DINO STATS=-\r\n2x | Crafting Speed / Level\r\n2x | Lower Dino Stamina Drain\r\n15x | Dino Weight / Level\r\n20x | Player Weight / Level\r\n\r\nPlayer and Dino Weight are gains per level invested,\r\nnot multipliers to their starting weight.\r\n\r\n-=STRUCTURES & LIMITS=-\r\n2x | Structure Health\r\n50x | Item Stack Size\r\n10 | Tribe Size\r\n100 | Platform Saddle Limit\r\n50,000 | Tame Limit\r\n\r\nThe tame limit is intentionally high and is not\r\nintended to restrict normal tribe progression.\r\n\r\nAll core rates are identical across every map\r\nin the Gamers Den cluster."
 					},
 					{
 						"title": "Taming & Breeding Settings",
-						"text": "*Taming Speed 10×\r\n*Mature Speed 15x\r\n*Incubation Speed 10x\r\n*Imprint Amount 10x\r\n*Mating intervals increased"
+						"text": "-=TAMING=-\r\n10x | Taming Speed\r\n\r\nTaming is accelerated across the entire cluster,\r\nreducing tame times while keeping normal taming\r\nmethods and food choices relevant.\r\n\r\n-=BREEDING=-\r\n15x | Maturation Speed\r\n10x | Incubation Speed\r\n10x | Imprint Amount\r\n10x | Shorter Mating Cooldown\r\n32x | Shorter Cuddle Interval\r\n\r\nMaturation controls how quickly babies grow.\r\nIncubation speeds up both egg incubation and\r\ngestation.\r\n\r\nImprint Amount increases the progress gained from\r\neach successful imprint. Cuddle Interval reduces\r\nthe wait between imprint opportunities.\r\n\r\nBreeding rates are identical across every map\r\nin the Gamers Den cluster."
 					},
 					{
 						"title": "Max Levels",
-						"text": "*Max Wild Dino Level 150\r\n*Max Tek Dino Level 180\r\n*Max Wyvern Level 190\r\n*Max Shiny Level 180"
+						"text": "-=MAX DINO LEVELS=-\r\n150 | Standard Wild\r\n180 | Tek\r\n180 | Shiny\r\n190 | Wyvern / Rock Drake\r\n\r\nStandard wild creatures can naturally spawn up\r\nto level 150 across the cluster.\r\n\r\nTek creatures can spawn 20% above the standard\r\nwild cap, giving them a maximum level of 180.\r\n\r\nShiny dinos use the upper wild level range and\r\ncan spawn up to level 180.\r\n\r\nWyverns and Rock Drakes use higher egg-level\r\nranges and can hatch up to level 190.\r\n\r\nThese are wild or hatch levels before taming,\r\nimprinting or player-applied levels."
+					},
+					{
+						"title": "Shiny Dino Settings",
+						"text": "20 / Map | Active Limit\r\n4–7 Min | Spawn Interval\r\n6 Hours | Lifetime\r\n150–180 | Level Range\r\n2x | Enraged Levels\r\nYes | Spawn on Restart\r\n\r\n-=TRAITS & STATS=-\r\n50% | Trait Gain Chance\r\n50% | Trait Upgrade Chance\r\n1.6x | Stat Boost Weighting\r\n\r\nShinies replace normal wild spawns and do not\r\nincrease the overall wild dino population.\r\n\r\nShinies spawn at high wild levels, with Enraged\r\nvariants receiving increased levels.\r\n\r\nTrait Gain and Trait Upgrade give Shinies a chance\r\nto receive or improve traits when generated."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Decay System",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Decay System",
+						"text": "-=STANDARD STRUCTURE DECAY=-\r\n30 Days | Default\r\n60 Days | Recognized\r\nNever   | Premium\r\nNever   | Map Protection - Protected Map Only\r\n\r\nStandard decay determines how long your tribe's\r\nstructures can remain unrendered before becoming\r\neligible for removal.\r\n\r\n-=RAPID DECAY=-\r\n15 or Fewer | Structures\r\n3000 Units  | Detection Area\r\n5 Days      | Decay Time\r\nExempt      | Admins & Premium\r\n\r\nSmall abandoned builds and outposts decay faster\r\nthan established bases. If 15 or fewer structures\r\nare detected within the rapid-decay area, they can\r\ndecay after only 5 days.\r\n\r\nIMPORTANT: Recognized and Map Protection do NOT\r\nprotect structures from Rapid Decay. A base with a\r\n60-day standard timer can still be considered a\r\n5-day outpost.\r\n\r\n-=HOW TIMERS RESET=-\r\nRendering any structure belonging to your tribe\r\nresets the tribe's applicable decay timers.\r\n\r\nYou do not need to visit every individual structure.\r\nSimply return to and render your builds regularly.\r\n\r\nUse /decaytime while looking at a structure to\r\ncheck its current decay timer.\r\n\r\n-=PROTECTION LEVELS=-\r\nRecognized\r\nExtends standard structure decay from 30 to 60 days.\r\n\r\nPremium\r\nStructures do not expire from standard or rapid\r\ndecay while Premium protection is active.\r\n\r\nMap Protection\r\nPrevents standard structure decay on the protected\r\nmap only. Rapid Decay still applies.\r\n\r\nAfter purchasing or receiving protection, relog\r\nto activate it. If protection expires, structures\r\nreturn to the applicable standard decay timer.\r\n\r\n-=OTHER DECAY TIMERS=-\r\n30 Days | Unclaimed Dinos\r\n30 Days | Empty Tribes\r\n\r\nDecay exists to keep abandoned structures and\r\noutposts from accumulating while still giving\r\nactive players plenty of time away from the cluster.\r\n\r\nWhen in doubt, check your structures with /decaytime."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Scheduling & Automation",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "SERVER AUTOMATION & PROTECTION",
+						"text": "-=SCHEDULED MAINTENANCE=-\r\n2:00 AM Pacific | Wild Dino Wipe\r\n3:00 AM Pacific | Daily Server Restart\r\n\r\nScheduled maintenance is automated across the\r\ncluster to keep servers healthy and running\r\nconsistently.\r\n\r\nUpdates are automatically detected and applied.\r\nServers are returned to service as quickly as\r\npractical after maintenance.\r\n\r\nAdditional restarts may occur for mod updates,\r\nstability improvements or backend maintenance.\r\n\r\n\r\n-=AUTOMATED BACKUPS=-\r\n10 Min | Map Backups\r\n10 Min | Player Profile Backups\r\nEnabled | Player Transfer Profile Backups\r\n\r\nMap saves and player profiles are backed up\r\nindependently every 10 minutes, providing frequent\r\nrecovery points if a server or save issue occurs.\r\n\r\nPlayer transfer profiles are also backed up to help\r\nprotect characters and progression while travelling\r\nbetween servers.\r\n\r\n\r\n-=DEDICATED INFRASTRUCTURE=-\r\nGamers Den runs on privately owned dedicated\r\nphysical server hardware rather than shared\r\ngame-server hosting.\r\n\r\nBackups, monitoring, automation and recovery\r\nsafeguards are designed around long-term reliability\r\nand preservation of player progression."
 					},
 					{
 						"title": "",
-						"text": ""
+						"text": "-=SERVER STATUS BOARD=-\r\nThe Gamers Den Discord includes a live Server Status\r\nBoard covering every map in the cluster.\r\n\r\nPlayers can quickly see when a server is online,\r\nrestarting, updating, offline or experiencing an\r\nissue.\r\n\r\nThe board provides a central place to check cluster\r\nstatus before reporting a problem or waiting for a\r\nserver to return.\r\n\r\n\r\n-=AUTOMATED WEB STORE=-\r\nThe Gamers Den Web Store is fully integrated with\r\nthe cluster and uses automated delivery.\r\n\r\nPurchases are processed automatically so eligible\r\nitems, packages and other goods can be deployed\r\nquickly without waiting for an admin to manually\r\nfulfil the order.\r\n\r\n\r\n-=BUILT FOR LONG-TERM PROGRESSION=-\r\nGamers Den is a no-wipe cluster designed around\r\nlong-term progression.\r\n\r\nAutomation works behind the scenes to maintain the\r\nservers, protect progression, provide player status\r\ninformation and deliver services quickly.\r\n\r\nThe goal is simple: protect the time players invest\r\nin their characters, dinos, bases and progression."
 					}
 				]
 			}
